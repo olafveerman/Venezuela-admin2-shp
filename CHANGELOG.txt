@@ -1,0 +1,134 @@
+*Changelog ven-admin2*
+
+This shapefile is based on GADM 1.0 to which the following changes were made:
+
+*Version 1.1*
+
+Added - 38231 Naguanagua - Was incorrectly grouped with Montalbán (38009)
+Added - 38232 San Diego - 
+Added - 38233 Los Guayos - 
+Added - 38234 Libertador - 
+Changed polygon - 38012 Valencia - San Diego, Los Guayos and Libertador were included in the original shape.
+Removed - 38007 Lago de Valencia - Removed, not a municipality, but a lake
+Changed polygon - 37939 Aragua - Changed to make space for Santa Ana and McGregor
+Added - 38235 Santa Ana - 
+Added - 38236 General Sir Arthur McGregor - 
+Added - 38237 San Juan de Capistrano - 
+Changed polygon - 37955 Penalver - Changed to incorporate San Juan de Capistrano in the map
+Added - 38238 Andres Eloy Blanco - 
+Changed polygon - 37987 Ezequiel Zamora - Changed to incorporate Andres Eloy Blanco in the map
+Added - 38239 Padre Pedro Chien - 
+Changed polygon - 37997 Piar - Changed to incorporate Padre Pedro Chien in the map
+Added - 38240 Casacoima - 
+Changed polygon - 38023 Tucupita - Changed to incorporate Casacoima in the map
+Added - 38241 San Gerónimo de Guayabal - 
+Changed polygon - 38049 Camaguan - Changed to incorporate San Gerónimo de Guayabal in the map
+Added - 38242 Uracoa - 
+Changed polygon - 38127 Sotillo - Changed to incorporate Uracoa in the map
+Added - 38243 Santa Barbara - 
+Added - 38244 Aguasay - 
+Changed polygon - 38124 Maturín - Changed to incorporate Santa Barbara and Aguasay in the map
+Added - 38245 Urumaco - 
+Changed polygon - 38033 Democracia - Changed to incorporate Urumaco in the map
+Added - 38246 Sucre - 
+Changed polygon - 38027 Bolívar - Changed to incorporate Sucre in the map
+Added - 38247 Tocópero - 
+Changed polygon - 38048 Zamora - Changed to incorporate Tocópero in the map
+Added - 38248 Lima Blanco - 
+Changed polygon - 38019 Tinaco - Changed to incorporate Lima Blanco in the map
+Added - 38249 Romulo Gallegos - 
+Changed polygon - 38018 Ezequiel Zamora - Changed to incorporate Romulo Gallegos. in the map
+Changed name - 38018 Ezequiel Zamora - Renamed municipio from San Carlos to Ezequiel Zamora
+Added - 38250 Francisco Linares - 
+Changed polygon - 37975 Santiago Mariño - Changed to incorporate Francisco Linares in the map
+Added - 38251 José R Revenga - 
+Changed polygon - 37970 José Felix Ribas - Changed to incorporate José R Revenga in the map
+Added - 38252 Ocumare de la Costa de Oro - 
+Changed polygon - 37972 Mario Briceño Iragorry - Changed to incorporate Ocumare de la Costa de Oro in the map
+Added - 38253 Antonio Rómulo Costa - 
+Changed polygon - 38188 Seboruco - Changed to incorporate Antonio Rómulo Costa in the map
+Added - 38254 Francisco de Miranda - 
+Added - 38255 José María Vargas - 
+Changed polygon - 38178 Jauregui - Changed to incorporate Francisco de Miranda and Jose Maria Vargas in the map
+Added - 38256 Rafael Urdaneta - 
+Changed polygon - 38179 Junin - Changed to incorporate Rafeal Urdaneta in the map
+Added - 38257 San Judas Tadeo - 
+Changed polygon - 38184 Panamericano - Changed to incorporate San Judas Tadeo in the map
+Added - 38258 Simón Rodriguez - 
+Changed polygon - 38186 Samuel Dario Maldonado - Changed to incorporate Simon Rodriguez in the map
+Added - 38259 Torbes - 
+Changed polygon - 38187 San Cristóbal - Changed to incorporate Torbes in the map
+Changed name - 38226 Guajira - Changed name from Páez to Guajira (was changed in 2010)
+Added - 38260 San Francisco - 
+Changed polygon - 38224 Maracaibo - Changed to incorporate San Francisco in the map
+Added - 38261 Jesús María Semprún - 
+Changed polygon - 38216 Catatumbo - Changed to incorporate Jesus Maria Semprun in the map
+Added - 38262 Francisco Javier Pulgar - 
+Changed polygon - 38217 Colon - Changed to incorporate Francisco Javier Pulgar in the map
+Added - 38263 Simón Bolívar - 
+Changed polygon - 38215 Cabimas - Changed to incorporate Simon Bolivar in the map
+Added - 38264 Veroes - 
+Added - 38265 Independencia - 
+Added - 38266 Cocorote - 
+Changed polygon - 38210 San Felipe - Changed to incorporate Veroes, Independencia and Cocorote in the map
+Changed name - 37959 Achaguas - Changed name (removed Autonomo)
+Changed name - 37960 Biruaca - Changed name (removed Autonomo)
+Changed name - 37961 Muñoz - Changed name (removed Autonomo)
+Changed name - 37962 Páez - Changed name (removed Autonomo)
+Changed name - 37963 Pedro Camejo - Changed name (removed Autonomo)
+Changed name - 37964 Rómulo Gallegos - Changed name (removed Autonomo)
+Changed name - 37965 San Fernando - Changed name (removed Autonomo)
+Added - 38267 La Ceiba - 
+Changed polygon - 38201 Sucre - Changed to incorporate La Ceiba in the map
+Added - 38268 José Felipe Márquez Cañizalez - 
+Changed polygon - 38192 Candelaria - Changed to incorporate Jose Felipe M Canizales in the map
+Added - 38269 Pampanito - 
+Changed polygon - 38202 Trujillo - Changed to incorporate Pampanito in the map
+Added - 38270 Andres Bello - 
+Changed polygon - 38195 Miranda - Changed to incorporate Andres Bello in the map
+Added - 38271 Bolívar - 
+Changed polygon - 38199 Rafael Rangel - Changed to incorporate Bolivar in the map
+Added - 38272 Juan Vicente Campos Elías - 
+Changed polygon - 38191 Boconó - Changed to incorporate Juan Vicente Campos Elías in the map
+Added - 38273 Manuel Monge - 
+Changed polygon - 38205 Bolívar - Changed to incorporate Manuel Monge in the map
+Changed name - 38205 Bolívar - Changed name (removed Autonomo)
+Changed name - 38206 Bruzual - Changed name (removed Autonomo)
+Changed name - 38207 José Antonio Páez - Changed name (removed Autonomo)
+Changed name - 38208 Nirgua - Changed name (removed Autonomo)
+Changed name - 38209 Peña - Changed name (removed Autonomo)
+Changed name - 38211 Sucre - Changed name (removed Autonomo)
+Changed name - 38212 Urachiche - Changed name from Autonomo Urachique
+Added - 38274 La Trinidad - 
+Added - 38275 Arístides Bastidas - 
+Changed polygon - 38211 Sucre - Incorporated La Trinidad and Arístides Bastidas
+Changed - 38025 Vargas - Vargas was wrongly included in Distrito Capital. Changes: NAME_1: 'Vargas' with ID_1: 3271
+Removed - 37934 D. Atabapo - Removed, Amazonas changed completely
+Changed polygon - 37935 Atures    - Changed shape
+Removed - 37936 D. Casiquiare - Removed, Amazonas changed completely
+Added - 38276 Atabapo    - 
+Added - 38277 Maroa    - 
+Changed polygon - 37937 Río Negro - Changed shape
+Added - 38278 Autana    - 
+Added - 38279 Manapiare    - 
+Added - 38280 Alto Orinoco   - 
+Changed name - 37935 Atures    - Changed from 'D. Atures' to Atures
+Changed name - 37937 Río Negro - Changed from 'D. Rio Negro' to Río Negro
+Changed name - 37998 Angostura - Changed in 2009 from Raul Leoni to Angostura
+Changed name - 38020 D. Antonio Diaz - Changed name (removed 'D.')
+Changed name - 38021 D. Pedernales - Changed name (removed 'D.')
+Changed name - 38134 Isla de Cubagua - Municipio is officially called Tubores and not 'Isla de Cubagua'
+Merged - 37947 I. de Adentro - Merged it with 37955 Fernando de Peñalver, this is not a municipio in itself
+Merged - 37948 I. de Afuera - Merged it with 37955 Fernando de Peñalver, this is not a municipio in itself
+Merged - 38022 Isla - Merged it with 38240 Casacoima, this is not a municipio in itself
+Merged - 38036 Isla - Merged it with 38046 Silva, this is not a municipio in itself
+Merged - 38052 Guacharamas - Merged with 38050 Chaguaramas, this is not a municipio in itself
+Removed - 38107 Isla - Not an island, but water
+Merged - 38161 Isla - Merged it with 38167 Sucre, this is not a municipio in itself
+
+*Version 1.0*
+From the original GADM shapefile:
+
+> These files were extracted from GADM version 1.0, in March 2009
+> GADM is a geographic database of global administrative areas (boundaries).
+
